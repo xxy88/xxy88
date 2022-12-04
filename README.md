@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @xxy88
+👀 I’m interested in Software Engineering
+📫 How to reach me: via email xxyxx88@outlook.com
